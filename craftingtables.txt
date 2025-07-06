@@ -4,5 +4,6 @@ return {
   "Suncoil",
   "Nectar Thorn",
   "Lumira",
-  "Dandelion"
+  "Dandelion",
+  "Manuka Flower"
 }
