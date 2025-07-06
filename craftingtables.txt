@@ -5,5 +5,8 @@ return {
   "Nectar Thorn",
   "Lumira",
   "Dandelion",
-  "Manuka Flower"
+  "Manuka Flower",
+  "Aloe Vera",
+  "Guanabana",
+  "Peace Lily"
 }
