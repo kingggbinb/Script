@@ -1,4 +1,5 @@
 return { 
+  "Crafters Seed Pack",
   "Honeysuckle",
   "Bee Balm",
   "Suncoil",
