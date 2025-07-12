@@ -1,4 +1,4 @@
--- Kevine Hub
+--[[ Kevine Hub Key Is kevinehubisthebest ]]
 return (function()  
 local discord = "https://discord.gg/ZCajeqGbmD"
 local __tamper_guard = (function()  
