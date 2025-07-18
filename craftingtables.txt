@@ -9,5 +9,9 @@ return {
   "Manuka Flower",
   "Aloe Vera",
   "Guanabana",
-  "Peace Lily"
+  "Peace Lily",
+  "Lingonberry",
+  "Horsetail",
+  "Grand Volcania",
+  "Amber Spine"
 }
